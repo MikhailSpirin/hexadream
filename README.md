@@ -3,7 +3,7 @@
 It is an **6-voice** drone synthesizer with **low pass filter** and selectable waveforms for each voice. Device also has external footswitch control for changing root note.
 It's power sides is appealing UI which uses 8x8 fully customizeable RGB LEDs, low cost and decent sound quality for the given purpose.
 
-[pic](./pic.jpg)
+![pic](./pic.jpg)
 
 ## Software side
 
